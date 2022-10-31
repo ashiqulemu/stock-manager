@@ -13,11 +13,11 @@ a {
 }
 
 .txt-secondary {
-  color: #1E3A58 !important;
+  color: #1A4A5A !important;
 }
 
 .bg-secondary {
-  background: #1E3A58 !important;
+  background: #1A4A5A !important;
 }
 
 html {
@@ -78,7 +78,7 @@ body {
   font-family: "poppins-medium";
 }
 .btn-theme:hover {
-  background: #1E3A58 !important;
+  background: #1A4A5A !important;
   color: #fff;
 }
 
@@ -117,11 +117,14 @@ body {
   width: 100%;
 }
 .main .content-container .header .nav-link {
-  margin: 0 4px;
-  background: #6375cf !important;
+  margin: 3px 4px;
+  background: #1A4A5A !important;
   color: white;
   padding: 6px 10px;
   border-radius: 5px;
+}
+.main .content-container .header .nav-link:hover {
+  background-color: #6375cf !important;
 }
 .main .content-container .inner {
   background: aliceblue;
