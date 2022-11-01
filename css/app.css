@@ -114,6 +114,7 @@ body {
   color: white;
   padding: 6px 10px;
   border-radius: 5px;
+  font-size: 12px;
 }
 .main .content-container .header .nav-link:hover {
   background-color: #6375cf !important;
